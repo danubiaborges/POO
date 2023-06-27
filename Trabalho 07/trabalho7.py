@@ -1,5 +1,3 @@
-# Danubia Pereira Borges - 2019018489
-
 from abc import ABC, abstractmethod
 
 class Vendedor(ABC):

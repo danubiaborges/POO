@@ -4,8 +4,6 @@ import artista as ast
 import album as alb
 import playlist as play
 
-#2022004251 - João Vítor Botrel
-
 class LimitePrincipal():
     def __init__(self, root, controle):
         self.controle = controle

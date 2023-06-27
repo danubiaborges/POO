@@ -1,4 +1,3 @@
-# Caio Miranda - 2021024231
 import tkinter as tk
 import Equipe as equip
 from tkinter import ttk
